@@ -17,6 +17,32 @@ html{
     scroll-behavior: smooth;
 }
 
+.email{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-size: 15px;
+    font-style: normal;
+    transition: text-shadow .3s ease;
+    writing-mode: vertical-rl;
+  }
+  
+.email:hover{
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 
+                 0 0 20px rgba(255, 255, 255, 0.6), 
+                 0 0 30px rgba(255, 255, 255, 0.4), 
+                 0 0 40px rgba(255, 255, 255, 0.2);
+    background-blend-mode: color;
+    opacity: 75;
+    color:rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .frame {
+      display:none;
+    }
+}
 .frame{
     transition: box-shadow .3s ease;
 }
