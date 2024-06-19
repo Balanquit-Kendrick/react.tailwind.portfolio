@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/react.tailwind.portfolio/static/css/main.51507e1d.css",
-    "main.js": "/react.tailwind.portfolio/static/js/main.7a5954ab.js",
+    "main.css": "/react.tailwind.portfolio/static/css/main.0049cdd4.css",
+    "main.js": "/react.tailwind.portfolio/static/js/main.b7c396c9.js",
     "static/media/me.png": "/react.tailwind.portfolio/static/media/me.af716617809b9087b1bb.png",
     "static/media/proj6.png": "/react.tailwind.portfolio/static/media/proj6.4ef1b8136d0267c23400.png",
     "static/media/proj4.png": "/react.tailwind.portfolio/static/media/proj4.d0700627898b567c1745.png",
     "static/media/proj5.png": "/react.tailwind.portfolio/static/media/proj5.91fa10a235c69c09d1a6.png",
     "static/media/proj2.png": "/react.tailwind.portfolio/static/media/proj2.6af1eb74132292365ae0.png",
     "static/media/proj1.png": "/react.tailwind.portfolio/static/media/proj1.2bdbe8133cdbac65d0df.png",
-    "static/media/proj3.png": "/react.tailwind.portfolio/static/media/proj3.9ace501391c72d0aa53f.png",
     "static/media/about.jpg": "/react.tailwind.portfolio/static/media/about.58c937d5aecc886c2ff3.jpg",
     "static/media/Balanquit - Resume.pdf": "/react.tailwind.portfolio/static/media/Balanquit - Resume.9f7855b4742dbc18db50.pdf",
     "static/media/react.png": "/react.tailwind.portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -18,11 +17,11 @@
     "static/media/doge-1.svg": "/react.tailwind.portfolio/static/media/doge-1.ba96bd81ab7efffe26a6c36ac19152aa.svg",
     "static/media/javascript.png": "/react.tailwind.portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react.tailwind.portfolio/index.html",
-    "main.51507e1d.css.map": "/react.tailwind.portfolio/static/css/main.51507e1d.css.map",
-    "main.7a5954ab.js.map": "/react.tailwind.portfolio/static/js/main.7a5954ab.js.map"
+    "main.0049cdd4.css.map": "/react.tailwind.portfolio/static/css/main.0049cdd4.css.map",
+    "main.b7c396c9.js.map": "/react.tailwind.portfolio/static/js/main.b7c396c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.51507e1d.css",
-    "static/js/main.7a5954ab.js"
+    "static/css/main.0049cdd4.css",
+    "static/js/main.b7c396c9.js"
   ]
 }
