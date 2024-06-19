@@ -28,7 +28,7 @@ const Hero = () => {
                 repeat={Infinity}
                 />
             </h1>
-            <p className='text-white sm:text-lg my-6 lg:text-xl'>
+            <p className='text-white sm:text-lg my-6 lg:text-xl norm-text'>
                 My name is Kendrick Balanquit and I just started web development professionally.
             </p>
 

@@ -16,27 +16,27 @@ const Skills = () => {
 
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={html} alt='' width={100} height={100}/>
-            <p className='mt-2'>HTML</p>
+            <p className='mt-2 norm-text'>HTML</p>
         </div>
 
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={css} alt='' width={100} height={100}/>
-            <p className='mt-2'>CSS</p>
+            <p className='mt-2 norm-text'>CSS</p>
         </div>
 
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={javascript} alt='' width={100} height={100}/>
-            <p className='mt-2'>JavaScript</p>
+            <p className='mt-2 norm-text'>JavaScript</p>
         </div>
 
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={tailwind} alt=''/>
-            <p className='mt-2'>Tailwind</p>
+            <p className='mt-2 norm-text'>Tailwind</p>
         </div>
 
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={react} alt='' width={100} height={100}/>
-            <p className='mt-2'>React</p>
+            <p className='mt-2 norm-text'>React</p>
         </div>
     </div>
   )

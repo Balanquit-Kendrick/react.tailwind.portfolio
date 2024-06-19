@@ -23,6 +23,11 @@ html{
     transition: 1s;
 }
 
+.norm-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
 .nav-text{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 200;
