@@ -15,7 +15,7 @@ const Sidebar = () => {
       </div>
       <div class="fixed h-screen w-[100px] right-0 content-center  vertical-text text-white norm-text">
         <div className='content-center items-center justify-center px-8'>
-          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kendrick.it.expert@gmail.com" class="email">kendrick.it.expert@gmail.com</a>
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kendrick.it.expert@gmail.com" class="email norm-text">kendrick.it.expert@gmail.com</a>
         </div>
       </div>
     </div>
