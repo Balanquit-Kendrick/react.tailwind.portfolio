@@ -10,17 +10,19 @@ const About = () => {
             <div className='mt-4 md:mt-0 text-left flex'>
                 <div className='my-auto mx-6'>
                     <h2 className='text-4xl font-bold mb-4 primary-color'>About Me</h2>
+                    <br />
                     <p className='text-base lg:text-lg norm-text'>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto nemo quis animi unde nostrum autem, similique rem explicabo quasi. Ab rem dolore veritatis deleniti sequi tempore? Velit et qui nihil?
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto nemo quis animi unde nostrum autem, similique rem explicabo quasi. Ab rem dolore veritatis deleniti sequi tempore? Velit et qui nihil?
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto nemo quis animi unde nostrum autem, similique rem explicabo quasi. Ab rem dolore veritatis deleniti sequi tempore? Velit et qui nihil?
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto nemo quis animi unde nostrum autem, similique rem explicabo quasi. Ab rem dolore veritatis deleniti sequi tempore? Velit et qui nihil?
+                    I am Kendrick, a graduate of BS Information Technology from the <span className='font-extrabold text-sky-500'>Polytechnic University of the Philippines</span>.
+                    <br />
+                    <br />
+                    My journey into programming began in senior high school, though I wasn't initially certain about pursuing a coding career. Today, I am an <span className='font-extrabold text-sky-500'>Associate Software Developer</span> at a company in Makati City. 
                     </p>
                 </div>
             </div>
-            
-            <img className='mx-auto rounded-3xl py-8 md:py-0 block' src={aboutImg} width={300} height={300} alt="" />
-        
+            <div className='py-8'>
+                <img className='mx-auto rounded-3xl md:py-0 block' src={aboutImg} width={300} alt="" />
+            </div>
+
         </div>
 
     </div>
