@@ -1,7 +1,7 @@
 import React from 'react'
 import proj1 from '../assets/proj1.png'
 import proj2 from '../assets/proj2.png'
-import proj3 from '../assets/proj3.png'
+import proj3 from '../assets/Weather.png'
 import proj4 from '../assets/proj4.png'
 import proj5 from '../assets/proj5.png'
 import proj6 from '../assets/proj6.png';
@@ -49,9 +49,9 @@ const Work = () => {
                             
                 <img src={proj3} layout="fill" objectFit="cover" alt="" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-                    <span className='text-2xl font-bold text-black tracking-wider'>Project</span>
+                    <span className='text-2xl font-bold text-black tracking-wider'>Weather App</span>
                     <div className='pt-8 text-center'></div>
-                    <a href="/">
+                    <a href="https://balanquit-kendrick.github.io/weather-app/">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>View</button>
                     </a>
                 </div>
