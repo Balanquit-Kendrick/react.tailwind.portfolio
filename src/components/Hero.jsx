@@ -29,18 +29,18 @@ const Hero = () => {
                 />
             </h1>
             <p className='text-white sm:text-lg my-6 lg:text-xl'>
-                My name is Kendrick Balanquit and I just started web developing professionally.
+                My name is Kendrick Balanquit and I just started web development professionally.
             </p>
 
             <div className='my-8'>
                 <a href="/" className="px-6 py-3 w-full rounded-xl mr-4
-                bg-gradient-to-br from-orange-500 to-pink-500 text-white">
+                bg-gradient-to-br from-sky-400 to-sky-950 text-white font-semibold">
                 Download CV
                 </a>
                 <a href="#contact" className="px-6 py-3 w-full rounded-xl mr-4
-                border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
+                border border-gray-400 hover:bg-gradient-to-br from-sky-400 to-sky-950 font-semibold
                 text-white hover:border-none">
-                    Contact
+                Contact
                 </a>
             </div>
         </div>

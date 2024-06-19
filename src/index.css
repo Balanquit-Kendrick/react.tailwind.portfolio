@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 .primary-color{
-    @apply text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-600 inline-block;
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-sky-400 to-sky-950 inline-block;
 }
 
 .bg-primary-color{
-    @apply bg-gradient-to-r from-orange-400 to-pink-600 inline-block;
+    @apply bg-gradient-to-r from-sky-400 to-sky-950 inline-block;
 }
 body{
     background-color: black;
@@ -21,6 +21,28 @@ html{
 .profile{
     filter: drop-shadow(white 0px 0px 10px)  ;
     transition: 1s;
+}
+
+.nav-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    font-size: 1rem;
+    font-style: normal;
+    color: rgb(182, 182, 182);
+    transition: text-shadow 0.3s ease;
+    padding: 1rem;
+}
+
+.nav-text:hover{
+   
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 
+                 0 0 20px rgba(255, 255, 255, 0.6), 
+                 0 0 30px rgba(255, 255, 255, 0.4), 
+                 0 0 40px rgba(255, 255, 255, 0.2);
+    background-blend-mode: color;
+    opacity: 75;
+    color:rgb(255, 255, 255);
+    border-radius: 5px;
 }
 
 .profile:hover{

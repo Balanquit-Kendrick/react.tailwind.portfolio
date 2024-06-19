@@ -17,7 +17,7 @@ const Contact = () => {
                                 <div class="mt-2.5 relative">
                                     <input type="text" name="name" id='' placeholder='Your Name'
                                     class="bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border
-                                    border-gray-700 rounded-md focus:outline-none focus:border-pink-600" />
+                                    border-gray-700 rounded-md focus:outline-none focus:border-sky-600" />
                                 </div>
                             </div>
 
@@ -25,7 +25,7 @@ const Contact = () => {
                                 <div class="mt-2.5 relative">
                                     <input type="text" name="email" id='' placeholder='Your Email'
                                     class="bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border
-                                    border-gray-700 rounded-md focus:outline-none focus:border-pink-600" />
+                                    border-gray-700 rounded-md focus:outline-none focus:border-sky-600" />
                                 </div>
                             </div>
 
@@ -33,7 +33,7 @@ const Contact = () => {
                                 <div class="mt-2.5 relative">
                                     <textarea name="message" id='' placeholder='Your Message'
                                     class="bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border
-                                    border-gray-700 rounded-md focus:outline-none focus:border-pink-600" rows="4">
+                                    border-gray-700 rounded-md focus:outline-none focus:border-sky-600" rows="4">
                                     </textarea>
                                 </div>
                             </div>
