@@ -11,11 +11,12 @@ const Hero = () => {
         </div>
 
         <div className='col-span-2 px-5 my-auto' >
-            <h1 className='font-bold text-white text-4xl sm:text-5xl lg:text-8xl front-extrabold'>
+            <h1 className='font-bold text-white text-4xl sm:text-5xl lg:text-8xl front-extrabold '>
                 <span className='primary-color'>
                     I'm a
                 </span> <br />
-                <TypeAnimation
+                
+                <TypeAnimation 
                 sequence={[
                     "Frontend Dev",
                     1000,
@@ -28,8 +29,9 @@ const Hero = () => {
                 speed={50}
                 repeat={Infinity}
                 />
+                
             </h1>
-            <p className='text-white sm:text-lg my-6 lg:text-xl norm-text'>
+            <p className=' text-white sm:text-lg my-6 lg:text-xl norm-text'>
                 My name is Kendrick Balanquit and I just started web development professionally.
             </p>
 
