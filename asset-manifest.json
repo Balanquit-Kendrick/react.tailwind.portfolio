@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react.tailwind.portfolio/static/css/main.03fdb40a.css",
-    "main.js": "/react.tailwind.portfolio/static/js/main.b0bc1916.js",
+    "main.js": "/react.tailwind.portfolio/static/js/main.bf2fe5f8.js",
     "static/media/me.png": "/react.tailwind.portfolio/static/media/me.af716617809b9087b1bb.png",
     "static/media/proj6.png": "/react.tailwind.portfolio/static/media/proj6.4ef1b8136d0267c23400.png",
     "static/media/proj4.png": "/react.tailwind.portfolio/static/media/proj4.d0700627898b567c1745.png",
@@ -10,6 +10,7 @@
     "static/media/proj1.png": "/react.tailwind.portfolio/static/media/proj1.2bdbe8133cdbac65d0df.png",
     "static/media/proj3.png": "/react.tailwind.portfolio/static/media/proj3.9ace501391c72d0aa53f.png",
     "static/media/about.jpg": "/react.tailwind.portfolio/static/media/about.58c937d5aecc886c2ff3.jpg",
+    "static/media/Balanquit - Resume.pdf": "/react.tailwind.portfolio/static/media/Balanquit - Resume.9f7855b4742dbc18db50.pdf",
     "static/media/react.png": "/react.tailwind.portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/html.png": "/react.tailwind.portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/react.tailwind.portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -18,10 +19,10 @@
     "static/media/javascript.png": "/react.tailwind.portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react.tailwind.portfolio/index.html",
     "main.03fdb40a.css.map": "/react.tailwind.portfolio/static/css/main.03fdb40a.css.map",
-    "main.b0bc1916.js.map": "/react.tailwind.portfolio/static/js/main.b0bc1916.js.map"
+    "main.bf2fe5f8.js.map": "/react.tailwind.portfolio/static/js/main.bf2fe5f8.js.map"
   },
   "entrypoints": [
     "static/css/main.03fdb40a.css",
-    "static/js/main.b0bc1916.js"
+    "static/js/main.bf2fe5f8.js"
   ]
 }
