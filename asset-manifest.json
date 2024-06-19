@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react.tailwind.portfolio/static/css/main.6d985528.css",
-    "main.js": "/react.tailwind.portfolio/static/js/main.8fae9f12.js",
+    "main.css": "/react.tailwind.portfolio/static/css/main.5b89e3a0.css",
+    "main.js": "/react.tailwind.portfolio/static/js/main.315ece22.js",
     "static/media/me.png": "/react.tailwind.portfolio/static/media/me.af716617809b9087b1bb.png",
     "static/media/proj6.png": "/react.tailwind.portfolio/static/media/proj6.4ef1b8136d0267c23400.png",
     "static/media/proj4.png": "/react.tailwind.portfolio/static/media/proj4.d0700627898b567c1745.png",
@@ -14,13 +14,14 @@
     "static/media/html.png": "/react.tailwind.portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/react.tailwind.portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/react.tailwind.portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/doge-1.svg": "/react.tailwind.portfolio/static/media/doge-1.ba96bd81ab7efffe26a6c36ac19152aa.svg",
     "static/media/javascript.png": "/react.tailwind.portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react.tailwind.portfolio/index.html",
-    "main.6d985528.css.map": "/react.tailwind.portfolio/static/css/main.6d985528.css.map",
-    "main.8fae9f12.js.map": "/react.tailwind.portfolio/static/js/main.8fae9f12.js.map"
+    "main.5b89e3a0.css.map": "/react.tailwind.portfolio/static/css/main.5b89e3a0.css.map",
+    "main.315ece22.js.map": "/react.tailwind.portfolio/static/js/main.315ece22.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d985528.css",
-    "static/js/main.8fae9f12.js"
+    "static/css/main.5b89e3a0.css",
+    "static/js/main.315ece22.js"
   ]
 }
