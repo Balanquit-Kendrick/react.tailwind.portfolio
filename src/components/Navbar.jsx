@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
         <div className='bg-black text-gray-400 h-[100px] max-w-[1200px] mx-auto flex justify-between items-center'>
             
-            <div><a href='/'><img  src={MyLogo} class="logo px-6 h-[48px] " alt='mylogo' /></a></div>
+            <div><a href='/react.tailwind.portfolio'><img  src={MyLogo} class="logo px-6 h-[48px] " alt='mylogo' /></a></div>
             <ul className='hidden md:flex '>
                 <li className='p-5 nav-text'><a href='#about' >About</a></li>
                 <li className='p-5 nav-text'><a href='#work'>Work</a></li>
