@@ -6,25 +6,52 @@ import Work from "./components/Work";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Sidebar from "./components/Sidebar";
+import { useState } from "react";
+import Loader from "./loader";
 import './index.css';
 
 
 
 
 function App() {
+  const [isLoading, setIsLoading] = useState(true);
+ 
+    setTimeout(() => {
+        setIsLoading(false);
+    }, 2000);
   return (
-    <div className="App ">
-      <header className="App-header">
-        <Sidebar/>
-        <Navbar/>
-        <Hero/>
-        <Skills/>
-        <About/>
-        <Work/>
-        <Contact/>
-        <Footer/>
-      </header>
-    </div>
+    <div
+            style={{
+                textAlign: "center",
+                margin: "auto",
+            }}
+        >
+            
+            {isLoading ? (
+                <div className="h-screen gride place-content-center"
+                    style={{
+                        width: "100px",
+                        margin: "auto",
+                    }}
+                >
+                    <Loader />
+                </div>
+            ) : (
+              <div className="App ">
+                <header className="App-header">
+                  <Sidebar/>
+                  <Navbar/>
+                  <Hero/>
+                  <Skills/>
+                  <About/>
+                  <Work/>
+                  <Contact/>
+                  <Footer/>
+                </header>
+              </div>
+            )}
+        </div>
+    
   );
 }
 
