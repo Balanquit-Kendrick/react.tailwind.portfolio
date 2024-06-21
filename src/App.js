@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Sidebar from "./components/Sidebar";
 import { useState } from "react";
-import Loader from "./loader";
+import { HashLoader } from "react-spinners";
 import './index.css';
 
 
@@ -34,7 +34,7 @@ function App() {
                         margin: "auto",
                     }}
                 >
-                    <Loader />
+                    <HashLoader color="#34B2EA" />
                 </div>
             ) : (
               <div className="App ">
