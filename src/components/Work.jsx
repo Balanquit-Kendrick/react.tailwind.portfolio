@@ -55,6 +55,7 @@ const Work = () => {
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>View</button>
                     </a>
                 </div>
+            
             </div>
 
             <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden 
