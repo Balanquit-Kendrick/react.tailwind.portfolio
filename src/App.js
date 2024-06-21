@@ -21,14 +21,13 @@ function App() {
     }, 2000);
   return (
     <div
-            style={{
-                textAlign: "center",
+            style={{  
                 margin: "auto",
             }}
         >
             
             {isLoading ? (
-                <div className="h-screen gride place-content-center"
+                <div className="h-screen grid place-content-center"
                     style={{
                         width: "100px",
                         margin: "auto",
@@ -37,7 +36,7 @@ function App() {
                     <HashLoader color="#34B2EA" />
                 </div>
             ) : (
-              <div className="App ">
+              <div className="App">
                 <header className="App-header">
                   <Sidebar/>
                   <Navbar/>
