@@ -9,16 +9,18 @@ const Navbar = () => {
         setNav(!nav)
     }
   return (
-        <div className='bg-black text-gray-400 h-[100px] max-w-[1200px] mx-auto flex justify-between items-center'>
+        
+        <div className='bg-black text-gray-400 h-[100px] max-w-[1200px] mx-auto flex justify-between items-center sticky top-0 z-10'>
             
-            <div><a href='/react.tailwind.portfolio'><img  src={MyLogo} class="logo px-6 h-[48px] " alt='mylogo' /></a></div>
+            <div><a href='#'><img  src={MyLogo} class="logo px-6 h-[48px] " alt='mylogo' /></a></div>
             <ul className='hidden md:flex '>
                 <li className='p-5 nav-text'><a href='#about' >About</a></li>
                 <li className='p-5 nav-text'><a href='#work'>Work</a></li>
+                <li className='p-5 nav-text'><a href='#techs'>Technologies</a></li>
                 <li className='p-5 nav-text'><a href='#contact'>Contact</a></li>
             </ul>
 
-            <div onClick={handleNav} className='block md:hidden mr-6'>
+            <div onClick={handleNav} className='block md:hidden mr-6 '>
                 {nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20}/>}
             </div>
 
@@ -29,11 +31,13 @@ const Navbar = () => {
                     <li className='p-2'><a href='#home'>Home</a></li>
                     <li className='p-2'><a href='#about' >About</a></li>
                     <li className='p-2'><a href='#work' >Work</a></li>
+                    <li className='p-2'><a href='#techs' >Technologies</a></li>
                     <li className='p-2'><a href='#contact'>Contact</a></li>
                 </ul>
             </div>
 
         </div>
+        
   )
 }
 

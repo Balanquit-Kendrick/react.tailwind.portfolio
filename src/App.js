@@ -41,9 +41,9 @@ function App() {
                   <Sidebar/>
                   <Navbar/>
                   <Hero/>
-                  <Skills/>
                   <About/>
                   <Work/>
+                  <Skills/>
                   <Contact/>
                   <Footer/>
                 </header>
