@@ -31,7 +31,7 @@ const Skills = () => {
             </div>
             <div className=' grid md:grid-cols-3 gap-4'>
                 <div className=' bg-[#161616] rounded-xl p-2'>
-                    <p className='top-0 flex p-2 text-white norm-text place-content-center'>FrontEnd</p>
+                    <p className='top-0 flex p-2 text-white norm-text place-content-center font-bold'>FrontEnd</p>
                     <div className=' border-red-100'>
                         <div className='grid md:grid-cols-4 sm:grid-cols-5 min-[320px]:grid-cols-3  place-content-center p-5  gap-1'>
                             <div className='p-3 transform transition-transform duration-300 hover:scale-110'><img src={ html } alt="ggs" /><p className='text-white norm-text text-center'>html</p></div>
@@ -46,7 +46,7 @@ const Skills = () => {
                     </div>
                 </div>
                 <div className=' bg-[#161616] rounded-xl p-2'>
-                    <p className='top-0 flex p-2 text-white norm-text place-content-center'>BackEnd</p>
+                    <p className='top-0 flex p-2 text-white norm-text place-content-center font-bold'>BackEnd</p>
                     <div className=' border-white'>
                         <div className='grid md:grid-cols-4 sm:grid-cols-5 min-[320px]:grid-cols-3 place-content-center p-5  gap-1'>
                             <div className='p-3 transform transition-transform duration-300 hover:scale-110'><img src={ php } alt="ggs" /><p className='text-white norm-text text-center'>php</p></div>
@@ -60,7 +60,7 @@ const Skills = () => {
                     </div>
                 </div>
                 <div className=' bg-[#161616] rounded-xl p-2'>
-                    <p className='top-0 flex p-2 text-white norm-text place-content-center'>Others</p>
+                    <p className='top-0 flex p-2 text-white norm-text place-content-center font-bold'>Others</p>
                     <div className=' border-white'>
                         <div className='grid md:grid-cols-4 sm:grid-cols-5 min-[320px]:grid-cols-3 place-content-center p-5  gap-1'>
                             <div className='p-3 transform transition-transform duration-300 hover:scale-110'><img src={ git } alt="ggs" /><p className='text-white norm-text text-center'>git</p></div>
