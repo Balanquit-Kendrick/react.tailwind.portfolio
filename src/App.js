@@ -37,7 +37,7 @@ function App() {
                 </div>
             ) : (
               <div className="App">
-                <header className="App-header">
+                <header className="App-header delay">
                   <Sidebar/>
                   <Navbar/>
                   <Hero/>
