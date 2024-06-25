@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react.tailwind.portfolio/static/css/main.46602c96.css",
-    "main.js": "/react.tailwind.portfolio/static/js/main.d8aa2428.js",
+    "main.js": "/react.tailwind.portfolio/static/js/main.ce2d0c66.js",
     "static/media/me.png": "/react.tailwind.portfolio/static/media/me.af716617809b9087b1bb.png",
+    "static/media/about.jpg": "/react.tailwind.portfolio/static/media/about.22fa0dfd959f4b272e5b.jpg",
     "static/media/proj6.png": "/react.tailwind.portfolio/static/media/proj6.4ef1b8136d0267c23400.png",
     "static/media/proj4.png": "/react.tailwind.portfolio/static/media/proj4.d0700627898b567c1745.png",
     "static/media/proj5.png": "/react.tailwind.portfolio/static/media/proj5.91fa10a235c69c09d1a6.png",
     "static/media/proj1.png": "/react.tailwind.portfolio/static/media/proj1.2bdbe8133cdbac65d0df.png",
-    "static/media/about.jpg": "/react.tailwind.portfolio/static/media/about.58c937d5aecc886c2ff3.jpg",
     "static/media/Balanquit - Resume.pdf": "/react.tailwind.portfolio/static/media/Balanquit - Resume.9f7855b4742dbc18db50.pdf",
     "static/media/Tic-tac-toe.png": "/react.tailwind.portfolio/static/media/Tic-tac-toe.faeaaf208b207ff8fe93.png",
     "static/media/Weather.png": "/react.tailwind.portfolio/static/media/Weather.72e167a1d60b76750552.png",
@@ -34,10 +34,10 @@
     "static/media/html.svg": "/react.tailwind.portfolio/static/media/html.0107c93943a8f415b5db64ebb0a9d12d.svg",
     "static/media/vue.svg": "/react.tailwind.portfolio/static/media/vue.2b520303788d88b4e0c3776cd07cd61f.svg",
     "main.46602c96.css.map": "/react.tailwind.portfolio/static/css/main.46602c96.css.map",
-    "main.d8aa2428.js.map": "/react.tailwind.portfolio/static/js/main.d8aa2428.js.map"
+    "main.ce2d0c66.js.map": "/react.tailwind.portfolio/static/js/main.ce2d0c66.js.map"
   },
   "entrypoints": [
     "static/css/main.46602c96.css",
-    "static/js/main.d8aa2428.js"
+    "static/js/main.ce2d0c66.js"
   ]
 }
