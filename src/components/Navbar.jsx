@@ -12,7 +12,7 @@ const Navbar = () => {
         
         <div className='bg-black text-gray-400 h-[100px] max-w-[1200px] mx-auto flex justify-between items-center sticky top-0 z-10'>
             
-            <div><a href='#'><img  src={MyLogo} class="logo px-6 h-[48px] " alt='mylogo' /></a></div>
+            <div><a href='/'><img  src={MyLogo} className="logo px-6 h-[48px] " alt='mylogo' /></a></div>
             <ul className='hidden md:flex '>
                 <li className='p-5 nav-text'><a href='#about' >About</a></li>
                 <li className='p-5 nav-text'><a href='#work'>Work</a></li>
@@ -26,7 +26,7 @@ const Navbar = () => {
 
             <div className={nav ? 'z-10 fixed h-full left-0 top-0 w-[60%] bg-[#202121] ease-in-out duration-500'
             : 'fixed left-[-100%]' }>
-                <img src={MyLogo} class="logo px-6 my-10 mx h-[48px] " alt='mylogo' />
+                <img src={MyLogo} className="logo px-6 my-10 mx h-[48px] " alt='mylogo' />
                 <ul className='p-8 text-2xl'>
                     <li className='p-2'><a href='#home'>Home</a></li>
                     <li className='p-2'><a href='#about' >About</a></li>
