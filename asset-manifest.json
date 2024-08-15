@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react.tailwind.portfolio/static/css/main.46602c96.css",
-    "main.js": "/react.tailwind.portfolio/static/js/main.8989e652.js",
+    "main.js": "/react.tailwind.portfolio/static/js/main.4eaa225b.js",
     "static/media/me.png": "/react.tailwind.portfolio/static/media/me.af716617809b9087b1bb.png",
     "static/media/about.jpg": "/react.tailwind.portfolio/static/media/about.22fa0dfd959f4b272e5b.jpg",
     "static/media/Adams Portal.png": "/react.tailwind.portfolio/static/media/Adams Portal.4853d2bb2a75e26aaede.png",
@@ -32,10 +32,10 @@
     "static/media/html.svg": "/react.tailwind.portfolio/static/media/html.0107c93943a8f415b5db64ebb0a9d12d.svg",
     "static/media/vue.svg": "/react.tailwind.portfolio/static/media/vue.2b520303788d88b4e0c3776cd07cd61f.svg",
     "main.46602c96.css.map": "/react.tailwind.portfolio/static/css/main.46602c96.css.map",
-    "main.8989e652.js.map": "/react.tailwind.portfolio/static/js/main.8989e652.js.map"
+    "main.4eaa225b.js.map": "/react.tailwind.portfolio/static/js/main.4eaa225b.js.map"
   },
   "entrypoints": [
     "static/css/main.46602c96.css",
-    "static/js/main.8989e652.js"
+    "static/js/main.4eaa225b.js"
   ]
 }
