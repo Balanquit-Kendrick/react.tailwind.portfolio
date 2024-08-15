@@ -27,7 +27,7 @@ const Work = () => {
                 </div>
             </div>
 
-            <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden 
+            {/* <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden 
                             shadow-lg shadow-[#040c16] group  rounded-md flex justify-center items-center
                             mx-auto content-div h-[200px] bg-cover relative'>
                             
@@ -39,7 +39,7 @@ const Work = () => {
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>View</button>
                     </a>
                 </div>
-            </div>
+            </div> */}
 
             <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden 
                             shadow-lg shadow-[#040c16] group  rounded-md flex justify-center items-center
