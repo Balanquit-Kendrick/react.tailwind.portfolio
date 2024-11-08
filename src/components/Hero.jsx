@@ -36,7 +36,7 @@ const Hero = () => {
             </p>
 
             <div className='my-8'>
-                <a href={require("../assets/files/Balanquit - Resume.pdf")} download="Balanquit Resume" target='_blank' className="px-6 py-3 w-full rounded-xl mr-4
+                <a href={require("../assets/files/Balanquit - Resume.pdf")} download="Balanquit Resume" target='_blank' rel="noreferrer" className="px-6 py-3 w-full rounded-xl mr-4
                 bg-gradient-to-br from-sky-400 to-sky-950 text-white font-semibold">
                 Download CV
                 </a>
