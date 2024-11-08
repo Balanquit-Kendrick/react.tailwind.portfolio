@@ -18,7 +18,7 @@ const Work = () => {
                             shadow-lg shadow-[#040c16] group  rounded-md flex justify-center items-center
                             mx-auto content-div h-[200px] bg-cover relative'>
                             
-                <img src={proj1} layout="fill" objectFit="cover" alt="" />
+                <img src={proj1} layout="fill" objectFit="cover" alt="Movie App" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-black tracking-wider'>Movie App</span>
                     <div className='pt-8 text-center'></div>
@@ -46,7 +46,7 @@ const Work = () => {
                             shadow-lg shadow-[#040c16] group  rounded-md flex justify-center items-center
                             mx-auto content-div h-[200px] bg-cover relative'>
                             
-                <img src={proj2} layout="fill" objectFit="cover" alt="" />
+                <img src={proj2} layout="fill" objectFit="cover" alt="Tic-Tac-Toe" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-black tracking-wider'>Tic-Tac-Toe</span>
                     <div className='pt-8 text-center'></div>
@@ -60,7 +60,7 @@ const Work = () => {
                             shadow-lg shadow-[#040c16] group  rounded-md flex justify-center items-center
                             mx-auto content-div h-[200px] bg-cover relative'>
                             
-                <img src={proj3} layout="fill" objectFit="cover" alt="" />
+                <img src={proj3} layout="fill" objectFit="cover" alt="Weather App" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-black tracking-wider'>Weather App</span>
                     <div className='pt-8 text-center'></div>
@@ -74,11 +74,11 @@ const Work = () => {
                             shadow-lg shadow-[#040c16] group  rounded-md flex justify-center items-center
                             mx-auto content-div h-[200px] bg-cover relative'>
                             
-                <img src={proj4} layout="fill" objectFit="cover" alt="" />
+                <img src={proj4} layout="fill" objectFit="cover" alt="Todo App" />
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-                    <span className='text-2xl font-bold text-black tracking-wider'>Weather App</span>
+                    <span className='text-2xl font-bold text-black tracking-wider'>Todo App</span>
                     <div className='pt-8 text-center'></div>
-                    <a href="/weather-app/">
+                    <a href="https://github.com/Balanquit-Kendrick/To-Do-App-Vue3">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>View</button>
                     </a>
                 </div>
