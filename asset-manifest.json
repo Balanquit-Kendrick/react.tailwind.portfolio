@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react.tailwind.portfolio/static/css/main.42817533.css",
-    "main.js": "/react.tailwind.portfolio/static/js/main.db217872.js",
+    "main.css": "/react.tailwind.portfolio/static/css/main.b8b08fd5.css",
+    "main.js": "/react.tailwind.portfolio/static/js/main.349448e0.js",
     "static/media/me.png": "/react.tailwind.portfolio/static/media/me.af716617809b9087b1bb.png",
     "static/media/about.jpg": "/react.tailwind.portfolio/static/media/about.22fa0dfd959f4b272e5b.jpg",
     "static/media/Movie.png": "/react.tailwind.portfolio/static/media/Movie.c2bca024b7fe8823d984.png",
@@ -20,8 +20,9 @@
     "static/media/next.svg": "/react.tailwind.portfolio/static/media/next.59fc2808b4fa3e538322d7c4c7cd1d5b.svg",
     "static/media/php.svg": "/react.tailwind.portfolio/static/media/php.7d28d30bbef7c6e4156c1fc581a6b0f0.svg",
     "static/media/python.svg": "/react.tailwind.portfolio/static/media/python.7658fc5b493f0fa4979b28893c05b15b.svg",
-    "static/media/github.svg": "/react.tailwind.portfolio/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/github.svg": "/react.tailwind.portfolio/static/media/github.c8d747f583c584032f10051b37a3af20.svg",
     "static/media/git.svg": "/react.tailwind.portfolio/static/media/git.6f19690dc5fd14f7a9593d09f8d78b36.svg",
+    "static/media/instagram.svg": "/react.tailwind.portfolio/static/media/instagram.3272257778ecabafbc0f762cca2ac98b.svg",
     "static/media/gitlab.svg": "/react.tailwind.portfolio/static/media/gitlab.01747e5536218f82cd91c5fcb9684736.svg",
     "static/media/vscode.svg": "/react.tailwind.portfolio/static/media/vscode.d688245ba6b690119616afc9e32e5158.svg",
     "static/media/js.svg": "/react.tailwind.portfolio/static/media/js.ff9cb4310fe13569e3dfb229650f3f10.svg",
@@ -29,12 +30,14 @@
     "static/media/tailwind.svg": "/react.tailwind.portfolio/static/media/tailwind.03fdecbfd26561a058e76b84d95184a7.svg",
     "static/media/css.svg": "/react.tailwind.portfolio/static/media/css.60e23942f41d4dc73de0d271b4453605.svg",
     "static/media/html.svg": "/react.tailwind.portfolio/static/media/html.bfc29cc664956a7748f9ee78fa82ec7b.svg",
+    "static/media/linkedin.svg": "/react.tailwind.portfolio/static/media/linkedin.a5002be87cbca2658ad59e2609e6aa65.svg",
     "static/media/vue.svg": "/react.tailwind.portfolio/static/media/vue.8b97202546c70be15de57bcd619accce.svg",
-    "main.42817533.css.map": "/react.tailwind.portfolio/static/css/main.42817533.css.map",
-    "main.db217872.js.map": "/react.tailwind.portfolio/static/js/main.db217872.js.map"
+    "static/media/facebook.svg": "/react.tailwind.portfolio/static/media/facebook.d6f0dd5e5edd5d4d0b9a3e961703aa77.svg",
+    "main.b8b08fd5.css.map": "/react.tailwind.portfolio/static/css/main.b8b08fd5.css.map",
+    "main.349448e0.js.map": "/react.tailwind.portfolio/static/js/main.349448e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.42817533.css",
-    "static/js/main.db217872.js"
+    "static/css/main.b8b08fd5.css",
+    "static/js/main.349448e0.js"
   ]
 }
