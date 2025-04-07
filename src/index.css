@@ -69,6 +69,16 @@ html{
     color:rgb(255, 255, 255);
     border-radius: 5px;
 }
+.socials:hover{
+    box-shadow:  0 0 10px rgba(255, 255, 255, 0.8), 
+    0 0 20px rgba(255, 255, 255, 0.6), 
+    0 0 30px rgba(255, 255, 255, 0.4), 
+    0 0 40px rgba(255, 255, 255, 0.2);
+background-blend-mode: color;
+opacity: 75;
+color:rgb(255, 255, 255);
+border-radius: 5px;
+}
 .profile{
     filter: drop-shadow(white 0px 0px 10px)  ;
     transition: 1s;

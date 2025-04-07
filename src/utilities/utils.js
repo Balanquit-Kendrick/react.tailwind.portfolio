@@ -21,6 +21,15 @@ import {
     vscode, 
 } from '../components/TechStack'
 
+import proj1 from '../assets/Movie.png'
+import proj2 from '../assets/Tic-tac-toe.png'
+import proj3 from '../assets/Weather.png'
+import proj4 from '../assets/Todo.png'
+import githubs from '../assets/socials/github.svg'
+import facebook from '../assets/socials/facebook.svg'
+import linkedin from '../assets/socials/linkedin.svg'
+import instagram from '../assets/socials/instagram.svg'
+
 const mySkills =[
     {
         name: 'Frontend',
@@ -123,6 +132,49 @@ const mySkills =[
     }
 ]
 
+const projects = [
+    {
+        name: 'Movie App',
+        imageUrl: proj1,
+        url: '/movie-app/'
+    },
+    {
+        name: 'Tic-Tac-Toe',
+        imageUrl: proj2,
+        url: '/tic-tac-toe/'
+    },
+    {
+        name: 'Weather App',
+        imageUrl: proj3,
+        url: '/weather-app/'
+    },
+    {
+        name: 'Todo App',
+        imageUrl: proj4,
+        url: 'https://github.com/Balanquit-Kendrick/To-Do-App-Vue3'
+    },
+]
+
+const socials = [
+    {
+        url: 'https://github.com/Balanquit-Kendrick',
+        svg: githubs
+    },
+    {
+        url: 'https://www.facebook.com/kendrick.balanquit',
+        svg: facebook
+    },
+    {
+        url: 'https://www.instagram.com/kendwiiick/',
+        svg: instagram
+    },
+    {
+        url: 'https://www.linkedin.com/in/kendrick-balanquit-6075aa171/',
+        svg: linkedin
+    },
+]
 export {
-    mySkills
+    mySkills,
+    projects,
+    socials
 }
