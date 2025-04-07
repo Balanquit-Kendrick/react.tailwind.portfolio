@@ -4,12 +4,12 @@ const Sidebar = () => {
   return (
     <div>
       <div className='fixed left-0 h-screen w-[100px]  content-center'>
-        <div className='flex justify-center items-center'>
-          <ul className='flex px-8 items-center justify-center'>
-            {socials.map((social, index) => (
-              <li key={index} className='p-[2px] socials'>
+        <div className='justify-center content-center items-center'>
+          <ul className='px-8 items-center content-center justify-center'>
+            {socials.map(social=>(
+              <li className='p-[2px]'>
                 <a href={social.url}>
-                  <img src={social.svg} alt="social" />
+                  <img src={social.svg} href={social.url} className='socials'/>
                 </a>
               </li>
             ))}
